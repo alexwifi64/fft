@@ -1,0 +1,2 @@
+# fft
+Final Fantasy Tactics is a videogame-essay that exploits the specific language of procedural media to mobilize a discourse on mutuality, interconnectedness, play, emergence, and participation. It is an attempt at inducing outer politics and cosmologies in which multiple subjectivities exist through coexisting, and the landscape they occupy develops only through that coexistence. A systemic view on the territories that we inhabit and a plea to grow more awareness towards the interdependencies that hold our ecologies together.
